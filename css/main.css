@@ -1,0 +1,252 @@
+.hidden
+{
+	display: none;
+}
+
+#Container
+{
+	width: 960px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin: 0 auto;
+	background-color: #dea61e;
+}
+
+#header
+{
+	margin: 0 auto;
+	background-image: url(../images/taps.jpg);
+	width: 942px;
+	height: 463px;
+	position: relative;
+}
+
+#header h1
+{	
+	color: white;
+	font-size: 80px;
+	position: absolute;
+	text-align: center;
+	bottom: 10px;
+	margin-left: 10px;
+}
+
+#header h2
+{
+	color: white;
+	font-size: 120px;
+	font-weight: bold;
+	position: absolute;
+	text-align: center;
+	top: 10px;
+	margin-left: 10px;
+}
+
+#Introduction
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	/*background-color: white;*/
+	width: 942px;
+	margin: 0 auto;
+}
+
+#introText
+{
+	margin-top: 40px;
+	width: 436px;
+}
+
+#introText h1
+{
+	font-size: 30px;
+	font-weight: bold; 
+	margin-bottom: 15px;
+}
+
+#introText p
+{
+	line-height: 26px;
+	font-size: 20px;
+	height: 350px;
+	text-align: justify;
+	text-justify: inter-character;
+}
+
+#introImage
+{
+	margin-top: 90px;
+}
+
+#greenHarpoon 
+{
+	width: 938px;
+	margin: 0 auto;
+	background-image: url(../images/glass_on_table.jpg);
+}
+
+
+#headerHarpoon
+{
+	width: 942px;
+	font-size: 60px;
+	margin-bottom: 25px;
+	margin-top: 50px;
+	text-align: center;
+	padding-top: 20px;
+	color: white;
+}
+
+#textHarpoon
+{
+	background-color: white;
+	opacity: 70%;
+	margin-bottom: 20px;
+}
+
+#p1
+{
+	line-height: 26px;
+	font-size: 20px;
+	text-align: justify;
+	text-justify: inter-character;
+	padding-right: 14px;
+	padding-left: 14px;
+	padding-top: 30px;
+}
+
+#p2
+{
+	margin-top: 15px;
+	line-height: 26px;
+	font-size: 20px;
+	text-align: justify;
+	text-justify: inter-character;
+	padding-right: 14px;
+	padding-left: 14px;
+	padding-bottom: 30px;
+}
+
+#headerBR
+{
+	width: 942px;
+	font-size: 60px;
+	margin-bottom: 35px;
+/*	margin-top: 50px;*/
+	text-align: center;
+	padding-top: 20px;
+}
+
+#contentBR
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	width: 938px;
+	margin: 0 auto;
+}
+
+#leftBR
+{
+	width: 436px;
+}
+
+#rightBR
+{
+	width: 436px;
+}
+
+#leftBRtext
+{
+	margin-top: 20px;
+	line-height: 26px;
+	font-size: 20px;
+	height: 350px;
+	text-align: justify;
+	text-justify: inter-character;
+}
+
+#pBR1
+{
+	line-height: 26px;
+	font-size: 20px;
+	height: 350px;
+	text-align: justify;
+	text-justify: inter-character;
+}
+
+#pBR2
+{
+	line-height: 26px;
+	font-size: 20px;
+	height: 350px;
+	text-align: justify;
+	text-justify: inter-character;
+}
+
+#infectedWolverine
+{
+	height: 530px;
+	width: 938px;
+	background-color: white;
+	margin: 0 auto;
+	position: relative;
+	opacity: 80%;
+	margin-top: 20px;
+}
+
+#titleIW
+{
+	width: 942px;
+	font-size: 60px;
+	margin-bottom: 25px;
+	text-align: center;
+	padding-top: 20px;
+}
+
+#IWContent
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+#pIW
+{
+	line-height: 26px;
+	font-size: 20px;
+	height: 350px;
+	text-align: justify;
+	text-justify: inter-character;
+	width: 436px;
+}
+
+#conclusion
+{
+	padding-top: 20px;
+	width: 938px;
+	margin: 0 auto;
+}
+
+#conclusionHeader
+{
+	width: 942px;
+	font-size: 60px;
+	margin-bottom: 25px;
+	text-align: center;
+	padding-top: 15px;
+
+}
+
+#conclusionParagraph
+{
+	margin-top: 15px;
+	line-height: 26px;
+	font-size: 20px;
+	text-align: justify;
+	text-justify: inter-character;
+	padding-right: 14px;
+	padding-left: 14px;
+	padding-bottom: 30px;
+}
