@@ -90,7 +90,7 @@ p:first-line
 #introText h1
 {
 	font-family: 'Yusei Magic', times, serif;
-	font-size: 30px;
+	font-size: 40px;
 	font-weight: bold; 
 	margin-bottom: 30px;
 	color: #6d3901;
@@ -113,7 +113,8 @@ p:first-line
 
 #introImage
 {
-	margin-top: 110px;
+	margin-top: 115px;
+	margin-bottom: 30px;
 }
 
 #greenHarpoon 
